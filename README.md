@@ -1,5 +1,5 @@
 # skido
-Run game scripts
+Sample Golang project to showcase Golang's producer consumer pattern and Goroutine's worker pool
 
 
 1.Steps to run your program:-
