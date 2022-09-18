@@ -1,4 +1,4 @@
-# skido
+# Golang Producer Consumer Pattern using Goroutines worker pool
 Sample Golang project to showcase Golang's producer consumer pattern and Goroutine's worker pool
 
 
